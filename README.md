@@ -1,1 +1,1 @@
-# image
+Using Neural Style Transfer (NST), this model merges two images, namely: a "content" image (C) and a "style" image (S), to create a "generated" image (G). The generated image G combines the "content" of the image C with the "style" of image S. I have used VGG-19 network to build this application, i.e., I've made use of transfer learning here.
